@@ -1,1 +1,1 @@
-This is my first attempt at a website. This page contains several of my favorite reciepes.
+This is my first attempt at a website. This page contains several of my favorite reciepe
